@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="test"></div>
-    <div>我是段落2</div>
+    <div>我是段落1</div>
   </div>
 </template>
 
